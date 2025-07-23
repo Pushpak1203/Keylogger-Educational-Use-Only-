@@ -1,0 +1,10 @@
+# Keyboard listener
+pynput==1.7.6
+
+# Optional encryption support
+cryptography==42.0.5
+
+# Email handling (built-in smtplib and email are used; no extra needed)
+
+# If you want to use .env file support later (optional)
+# python-dotenv==1.0.1
